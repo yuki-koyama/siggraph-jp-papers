@@ -181,8 +181,8 @@ function getAuthorInfo(authorName) {
 function getLinks(pub) {
     var pubtext = '';
     var hasYouTube = pub.youtube != null && pub.youtube.length > 0;
-    var hasVimeo   = pub.vimeo != null && pub.vimeo.length > 0;
-    var hasProj    = pub.url != null && pub.url.length > 0;
+    var hasVimeo   = pub.vimeo   != null && pub.vimeo.length   > 0;
+    var hasProj    = pub.url     != null && pub.url.length     > 0;
 
     if (!hasYouTube && !hasVimeo && !hasProj) {
         return pubtext;
@@ -213,7 +213,7 @@ function getLinks(pub) {
 
 function getPubText(pub) {
     var hasYouTube = pub.youtube != null && pub.youtube.length > 0;
-    var hasVimeo   = pub.vimeo   != null && pub.vimeo.length > 0;
+    var hasVimeo   = pub.vimeo   != null && pub.vimeo.length   > 0;
 
     var pubtext = '<tr><td><div class="row">';
 
@@ -292,15 +292,15 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
     var venico = ["sa"           , "siggraph", "tog"];
     for (var y = 2018; y >= 2014; -- y) 
     {
-        $("#pub").append('<span id="' + y + '"></span>');
+        $("#pub").append($('<span>').attr("id", y));
         for (var j = 0; j < venues.length; ++ j) 
         {
             if (y == 2018 && venico[j] == "sa") continue;
             var yearText = '';
-            yearText += '<div class="" id="' + venico[j] + y + '"><h1>';
+            yearText += '<div id="' + venico[j] + y + '"><h1>';
             yearText += venues[j] + ' ' + y;
             yearText += '</h1></div>';
-            yearText += '<table class="table table-hover table-striped"><tbody>'
+            yearText += '<table class="table table-hover table-striped"><tbody>';
             for (var i = 0; i < data.length; ++ i) {
                 if (data[i].year == y && data[i].venue == venues[j]) {
                     yearText += getPubText(data[i]);
