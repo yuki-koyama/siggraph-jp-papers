@@ -53,8 +53,8 @@
    "venue"   : "TOG",
    "year"    : 2018,
    "month"   : 3,
-   "url"     : "",
-   "youtube" : "",
+   "url"     : "http://www.jaist.ac.jp/~xie/panel.html",
+   "youtube" : "https://www.youtube.com/watch?v=Pem9oopCuNI",
    "vimeo"   : "",
    "aff"     : ["The University of Tokyo", "JAIST"],
    "fromJP"  : true
