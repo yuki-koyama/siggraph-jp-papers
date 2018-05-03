@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Example-based Turbulence Style Transfer",
+   "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Theodore Kim", "Tomoyuki Nishita"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "http://nishitalab.org/user/syuhei/TurbuStyleTrans/turbu_styletrans.html",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["DWANGO Co., Ltd.", "Hokkaido University", "Pixar Animation Studios", "Hiroshima Shudo University"],
+   "fromJP"  : true
+},
+{
    "title"   : "____",
    "authors" : ["Adrien Gruson", "Binh-Son Hua", "Derek Nowrouzezahrai", "Toshiya Hachisuka"],
    "venue"   : "SIGGRAPH",
