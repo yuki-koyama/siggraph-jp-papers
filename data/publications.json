@@ -48,6 +48,18 @@
    "fromJP"  : true
 },
 {
+   "title"   : "Editing Fluid Animation using Flow Interpolation",
+   "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Tomoyuki Nishita"],
+   "venue"   : "TOG",
+   "year"    : 2018,
+   "month"   : 0,
+   "url"     : "http://nishitalab.org/user/syuhei/FlowInterpolation/flow_interpolation.html",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["DWANGO Co., Ltd.", "Hokkaido University", "Hiroshima Shudo University"],
+   "fromJP"  : true
+},
+{
    "title"   : "Precomputed panel solver for aerodynamics simulation",
    "authors" : ["Haoran Xie", "Takeo Igarashi", "Kazunori Miyata"],
    "venue"   : "TOG",
