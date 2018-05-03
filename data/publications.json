@@ -48,7 +48,7 @@
    "fromJP"  : true
 },
 {
-   "title"   : "A Hyperbolic Geometric Flow for Evolving Films and Foams",
+   "title"   : "Precomputed panel solver for aerodynamics simulation",
    "authors" : ["Haoran Xie", "Takeo Igarashi", "Kazunori Miyata"],
    "venue"   : "TOG",
    "year"    : 2018,
