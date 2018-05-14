@@ -19,6 +19,9 @@
         
         <!-- Font Awesome -->
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+        <!-- LazyYT -->
+        <link rel="stylesheet" href="css/lazyYT.css" />
         
         <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -139,17 +142,25 @@
             </section>
 
             <p class="link text-right" id="contact">This page is publicly maintained at <a href="https://github.com/yuki-koyama/siggraph-jp-papers/">GitHub</a>. Your contributions are highly welcome.</p>
-            
+
         </div>
         
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="js/bootstrap.min.js"></script>
+        <!-- LazyYT -->
+        <script src="js/lazyYT.js"></script>
 
         <script type="text/javascript">
 
 var authors;
+
+// Based on https://gist.github.com/takien/4077195#gistcomment-2184219
+function getYouTubeId(url){
+    url = url.split(/(vi\/|v%3D|v=|\/v\/|youtu\.be\/|\/embed\/)/);
+    return (undefined !== url[2]) ? url[2].split(/[^0-9a-z_\-]/i)[0] : url[0];
+}
 
 function getVenue(venue) {
     return '<p class="where"><span class="label label-default">' + venue + '</span></p>';
@@ -252,8 +263,8 @@ function getPubText(pub) {
 
     pubtext += '<div class="col-md-4 col-sm-6 col-xs-12">';
     if (hasYouTube) {
-        var em = pub.youtube.replace("watch?v=","embed/");
-        pubtext += '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="' + em + '"></iframe></div>';
+        var youtube_id = getYouTubeId(pub.youtube);
+        pubtext += '<div class="lazyYT" data-youtube-id="' + youtube_id + '" data-parameters="rel=0" data-ratio="16:9" data-display-duration="true"></div>';
     } else if (hasVimeo) {
         var em = pub.vimeo.replace("vimeo.com","player.vimeo.com/video");
         pubtext += '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="' + em + '"></iframe></div>';
@@ -310,7 +321,9 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
             $("#pub").append(yearText);
         }
     }
+    $('.lazyYT').lazyYT('AIzaSyDev7vek7eM3Aa70Dw8risH_Hrvb1sSAzw');
 });
+
         </script>
     </body>
 </html>
