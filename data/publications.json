@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Mode-Adaptive Neural Networks for Quadruped Motion Control",
+   "authors" : ["He Zhang", "Sebastian Starke", "Taku Komura", "Jun Saito"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "https://github.com/sebastianstarke/AI4Animation",
+   "youtube" : "https://www.youtube.com/watch?v=uFJvRYtjQ4c",
+   "vimeo"   : "",
+   "aff"     : ["The University of Edinburgh", "Adobe"],
+   "fromJP"  : false
+},
+{
    "title"   : "Example-based Turbulence Style Transfer",
    "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Theodore Kim", "Tomoyuki Nishita"],
    "venue"   : "SIGGRAPH",
