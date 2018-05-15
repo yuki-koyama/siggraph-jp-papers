@@ -24,12 +24,12 @@
    "fromJP"  : true
 },
 {
-   "title"   : "____",
-   "authors" : ["Adrien Gruson", "Binh-Son Hua", "Derek Nowrouzezahrai", "Toshiya Hachisuka"],
+   "title"   : "Gradient-domain Volumetric Photon Density Estimation",
+   "authors" : ["Adrien Gruson", "Binh-Son Hua", "N. Vibert", "Derek Nowrouzezahrai", "Toshiya Hachisuka"],
    "venue"   : "SIGGRAPH",
    "year"    : 2018,
    "month"   : 7,
-   "url"     : "",
+   "url"     : "https://beltegeuse.github.io/research/publication/2018_gradientvolumetricpm/",
    "youtube" : "",
    "vimeo"   : "",
    "aff"     : ["The University of Tokyo", "____"],
