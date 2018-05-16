@@ -72,8 +72,8 @@
    "fromJP"  : true
 },
 {
-   "title"   : "____",
-   "authors" : ["Kazutaka Nakashima", "____", "____", "____", "____", "____"],
+   "title"   : "CoreCavity: Interactive Shell Decomposition for Fabrication with Two-Piece Rigid Molds",
+   "authors" : ["Kazutaka Nakashima", "Thomas Auzinger", "Emmanuel Iarussi", "Ran Zhang", "Takeo Igarashi", "Bernd Bickel"],
    "venue"   : "SIGGRAPH",
    "year"    : 2018,
    "month"   : 7,
