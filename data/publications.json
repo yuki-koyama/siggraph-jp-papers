@@ -12,6 +12,18 @@
    "fromJP"  : false
 },
 {
+   "title"   : "Eulerian-on-Lagrangian Cloth Simulation",
+   "authors" : ["Nicholas J. Weidner", "Kyle Piddington", "David I.W. Levin", "Shinjiro Sueda"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "http://faculty.cs.tamu.edu/sueda/projects/eol-cloth/",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Texas A&M University", "California Polytechnic State University", "The University of Toronto"],
+   "fromJP"  : false
+},
+{
    "title"   : "Example-based Turbulence Style Transfer",
    "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Theodore Kim", "Tomoyuki Nishita"],
    "venue"   : "SIGGRAPH",
