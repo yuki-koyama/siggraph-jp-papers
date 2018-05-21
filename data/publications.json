@@ -37,7 +37,7 @@
 },
 {
    "title"   : "Gradient-domain Volumetric Photon Density Estimation",
-   "authors" : ["Adrien Gruson", "Binh-Son Hua", "N. Vibert", "Derek Nowrouzezahrai", "Toshiya Hachisuka"],
+   "authors" : ["Adrien Gruson", "Binh-Son Hua", "Nicolas Vibert", "Derek Nowrouzezahrai", "Toshiya Hachisuka"],
    "venue"   : "SIGGRAPH",
    "year"    : 2018,
    "month"   : 7,
