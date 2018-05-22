@@ -48,15 +48,15 @@
    "fromJP"  : true
 },
 {
-   "title"   : "____",
-   "authors" : ["Nobuyuki Umetani", "____"],
+   "title"   : "Learning Three-dimensional Flow for Interactive Aerodynamic Design",
+   "authors" : ["Nobuyuki Umetani", "Bernd Bickel"],
    "venue"   : "SIGGRAPH",
    "year"    : 2018,
    "month"   : 7,
    "url"     : "",
    "youtube" : "",
    "vimeo"   : "",
-   "aff"     : ["____", "____"],
+   "aff"     : ["Autodesk Research", "IST Austria"],
    "fromJP"  : false
 },
 {
