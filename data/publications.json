@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Real-Time Data-Driven Interactive Rough Sketch Inking",
+   "authors" : ["Edgar Simo-Serra", "Satoshi Iizuka", "Hiroshi Ishikawa"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "http://hi.cs.waseda.ac.jp/~esimo/en/research/inking/",
+   "youtube" : "https://www.youtube.com/watch?v=629bSAPiHug",
+   "vimeo"   : "",
+   "aff"     : ["Waseda University"],
+   "fromJP"  : true
+},
+{
    "title"   : "Mode-Adaptive Neural Networks for Quadruped Motion Control",
    "authors" : ["He Zhang", "Sebastian Starke", "Taku Komura", "Jun Saito"],
    "venue"   : "SIGGRAPH",
