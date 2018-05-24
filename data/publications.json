@@ -84,6 +84,18 @@
    "fromJP"  : true
 },
 {
+   "title"   : "Mastering Sketching: Adversarial Augmentation for Structured Prediction",
+   "authors" : ["Edgar Simo-Serra", "Satoshi Iizuka", "Hiroshi Ishikawa"],
+   "venue"   : "TOG",
+   "year"    : 2018,
+   "month"   : 1,
+   "url"     : "http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Waseda University"],
+   "fromJP"  : true
+},
+{
    "title"   : "Editing Fluid Animation using Flow Interpolation",
    "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Tomoyuki Nishita"],
    "venue"   : "TOG",
