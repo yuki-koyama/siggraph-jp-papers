@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Deep Learning of Biomimetic Sensorimotor Control for Biomechanical Human Animation",
+   "authors" : ["Masaki Nakada", "Tao Zhou", "Honglin Chen", "Tomer Weiss", "Demetri Terzopoulos"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["University of California, Los Angeles"],
+   "fromJP"  : false
+},
+{
    "title"   : "Real-Time Data-Driven Interactive Rough Sketch Inking",
    "authors" : ["Edgar Simo-Serra", "Satoshi Iizuka", "Hiroshi Ishikawa"],
    "venue"   : "SIGGRAPH",
