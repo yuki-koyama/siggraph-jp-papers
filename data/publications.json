@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Fabricating Reflectors for Displaying Multiple Images",
+   "authors" : ["Kaisei Sakurai", "Yoshinori Dobashi", "Kei Iwasaki", "Tomoyuki Nishita"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "http://ksakurai.sakura.ne.jp/SG18/",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["DWANGO Co., Ltd.", "Hokkaido University", "Wakayama University", "Hiroshima Shudo University"],
+   "fromJP"  : true
+},
+{
    "title"   : "Deep Learning of Biomimetic Sensorimotor Control for Biomechanical Human Animation",
    "authors" : ["Masaki Nakada", "Tao Zhou", "Honglin Chen", "Tomer Weiss", "Demetri Terzopoulos"],
    "venue"   : "SIGGRAPH",
