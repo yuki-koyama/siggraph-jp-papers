@@ -89,8 +89,8 @@
    "venue"   : "SIGGRAPH",
    "year"    : 2018,
    "month"   : 7,
-   "url"     : "",
-   "youtube" : "",
+   "url"     : "https://www.autodeskresearch.com/machine_learning_cfd",
+   "youtube" : "https://www.youtube.com/watch?v=U38cKk-sxyY",
    "vimeo"   : "",
    "aff"     : ["Autodesk Research", "IST Austria"],
    "fromJP"  : false
