@@ -113,10 +113,10 @@
    "venue"   : "SIGGRAPH",
    "year"    : 2018,
    "month"   : 7,
-   "url"     : "",
+   "url"     : "http://visualcomputing.ist.ac.at/publications/2018/CoreCavity/",
    "youtube" : "",
    "vimeo"   : "",
-   "aff"     : ["The University of Tokyo", "____"],
+   "aff"     : ["The University of Tokyo", "IST Austria", "CONICET"],
    "fromJP"  : true
 },
 {
