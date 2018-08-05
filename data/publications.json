@@ -120,6 +120,18 @@
    "fromJP"  : true
 },
 {
+   "title"   : "Arnold: A Brute-Force Production Path Tracer",
+   "authors" : ["Iliyan Georgiev", "Thiago Ize", "Ramón Montoya-Vozmediano", "Alan King", "Brecht Van Lommel", "Angel Jimenez", "Oscar Anson", "Shinji Ogaki", "Eric Johnston", "Adrien Herubel", "Declan Russell", "Frédéric Servant", "Marcos Fajardo"],
+   "venue"   : "TOG",
+   "year"    : 2018,
+   "month"   : 7,
+   "url"     : "",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Solid Angle"],
+   "fromJP"  : false
+},
+{
    "title"   : "Mastering Sketching: Adversarial Augmentation for Structured Prediction",
    "authors" : ["Edgar Simo-Serra", "Satoshi Iizuka", "Hiroshi Ishikawa"],
    "venue"   : "TOG",
