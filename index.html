@@ -306,7 +306,6 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
         $("#pub").append($('<span>').attr("id", y));
         for (var j = 0; j < venues.length; ++ j) 
         {
-            if (y == 2018 && venico[j] == "sa") continue;
             var yearText = '';
             yearText += '<div id="' + venico[j] + y + '"><h1>';
             yearText += venues[j] + ' ' + y;
