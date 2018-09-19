@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Hybrid Grains: Adaptive Coupling of Discrete and Continuum Simulations of Granular Media",
+   "authors" : ["Yonghao Yue", "Breannan Smith", "Peter Yichen Chen", "Maytee Chantharayukhonthorn", "Ken Kamrin", "Eitan Grinspun"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "http://www.cs.columbia.edu/~smith/hybrid_grains/",
+   "youtube" : "https://www.youtube.com/watch?v=Z86Udk2JXeU",
+   "vimeo"   : "",
+   "aff"     : ["The University of Tokyo", "Columbia University", "Massachusetts Institute of Technology"],
+   "fromJP"  : true
+},
+{
    "title"   : "Fabricating Reflectors for Displaying Multiple Images",
    "authors" : ["Kaisei Sakurai", "Yoshinori Dobashi", "Kei Iwasaki", "Tomoyuki Nishita"],
    "venue"   : "SIGGRAPH",
