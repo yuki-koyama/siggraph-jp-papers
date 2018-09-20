@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Geometry-Aware Metropolis Light Transport",
+   "authors" : ["Hisanari Otsu", "Johannes Hanika", "Toshiya Hachisuka", "Carsten Dachsbacher"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "http://lightmetrica.org/h-otsu/project/geomlt/",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["The University of Tokyo", "..."],
+   "fromJP"  : true
+},
+{
    "title"   : "Hybrid Grains: Adaptive Coupling of Discrete and Continuum Simulations of Granular Media",
    "authors" : ["Yonghao Yue", "Breannan Smith", "Peter Yichen Chen", "Maytee Chantharayukhonthorn", "Ken Kamrin", "Eitan Grinspun"],
    "venue"   : "SIGGRAPH Asia",
