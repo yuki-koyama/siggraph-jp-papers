@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "3D Hair Synthesis Using Volumetric Variational Autoencoders",
+   "authors" : ["Shunsuke Saito", "Liwen Hu", "Chongyang Ma", "Linjie Luo", "Hao Li"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "http://linjieluo.com/publications/3d-hair-synthesis-using-volumetric-variational-autoencoders/",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Pinscreen", "University of Southern California", "Snap Inc."],
+   "fromJP"  : false
+},
+{
    "title"   : "Geometry-Aware Metropolis Light Transport",
    "authors" : ["Hisanari Otsu", "Johannes Hanika", "Toshiya Hachisuka", "Carsten Dachsbacher"],
    "venue"   : "SIGGRAPH Asia",
