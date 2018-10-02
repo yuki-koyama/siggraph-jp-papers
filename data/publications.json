@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "MIDAS Projection: Markerless and Modelless Dynamic Projection Mapping for Material Representation",
+   "authors" : ["Leo Miyashita", "Yoshihiro Watanabe", "Masatoshi Ishikawa"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["The University of Tokyo"],
+   "fromJP"  : true
+},
+{
    "title"   : "3D Hair Synthesis Using Volumetric Variational Autoencoders",
    "authors" : ["Shunsuke Saito", "Liwen Hu", "Chongyang Ma", "Hikaru Ibayashi", "Linjie Luo", "Hao Li"],
    "venue"   : "SIGGRAPH Asia",
