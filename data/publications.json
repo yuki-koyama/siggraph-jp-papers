@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "paGAN: Real-time Avatars Using Dynamic Textures",
+   "authors" : ["Koki Nagano", "Jaewoo Seo", "Jun Xing", "Lingyu Wei", "Zimo Li", "Shunsuke Saito", "Aviral Agarwal", "Jens Fursund", "Hao Li"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Pinscreen", "..."],
+   "fromJP"  : false
+},
+{
    "title"   : "MIDAS Projection: Markerless and Modelless Dynamic Projection Mapping for Material Representation",
    "authors" : ["Leo Miyashita", "Yoshihiro Watanabe", "Masatoshi Ishikawa"],
    "venue"   : "SIGGRAPH Asia",
