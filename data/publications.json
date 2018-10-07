@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images",
+   "authors" : ["Yoshihiro Kanamori", "Yuki Endo"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Tsukuba University", "Toyohashi University of Technology"],
+   "fromJP"  : true
+},
+{
    "title"   : "paGAN: Real-time Avatars Using Dynamic Textures",
    "authors" : ["Koki Nagano", "Jaewoo Seo", "Jun Xing", "Lingyu Wei", "Zimo Li", "Shunsuke Saito", "Aviral Agarwal", "Jens Fursund", "Hao Li"],
    "venue"   : "SIGGRAPH Asia",
