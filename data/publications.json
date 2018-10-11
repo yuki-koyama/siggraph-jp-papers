@@ -5,8 +5,8 @@
    "venue"   : "SIGGRAPH Asia",
    "year"    : 2018,
    "month"   : 11,
-   "url"     : "",
-   "youtube" : "",
+   "url"     : "http://kanamori.cs.tsukuba.ac.jp/projects/relighting_human/",
+   "youtube" : "https://www.youtube.com/watch?v=5wy0yxuX01A",
    "vimeo"   : "",
    "aff"     : ["Tsukuba University", "Toyohashi University of Technology"],
    "fromJP"  : true
