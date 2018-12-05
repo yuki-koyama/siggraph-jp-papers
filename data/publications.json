@@ -72,6 +72,30 @@
    "fromJP"  : true
 },
 {
+   "title"   : "Deep Incremental Learning for Efficient High-Fidelity Face Tracking",
+   "authors" : ["Chenglei Wu", "Takaaki Shiratori", "Yaser Sheikh"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "https://research.fb.com/publications/deep-incremental-learning-for-efficient-high-fidelity-face-tracking/",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Facebook Reality Labs"],
+   "fromJP"  : false
+},
+{
+   "title"   : "SFV: Reinforcement Learning of Physical Skills from Videos",
+   "authors" : ["Xue Bin Peng", "Angjoo Kanazawa", "Jitendra Malik", "Pieter Abbeel", "Sergey Levine"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2018,
+   "month"   : 11,
+   "url"     : "https://xbpeng.github.io/projects/SFV/index.html",
+   "youtube" : "https://www.youtube.com/watch?v=4Qg5I5vhX7Q",
+   "vimeo"   : "",
+   "aff"     : ["University of California, Berkeley"],
+   "fromJP"  : false
+},
+{
    "title"   : "Fabricating Reflectors for Displaying Multiple Images",
    "authors" : ["Kaisei Sakurai", "Yoshinori Dobashi", "Kei Iwasaki", "Tomoyuki Nishita"],
    "venue"   : "SIGGRAPH",
