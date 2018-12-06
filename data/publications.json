@@ -29,8 +29,8 @@
    "venue"   : "SIGGRAPH Asia",
    "year"    : 2018,
    "month"   : 11,
-   "url"     : "",
-   "youtube" : "",
+   "url"     : "http://www.k2.t.u-tokyo.ac.jp/vision/MIDAS/index-e.html",
+   "youtube" : "https://www.youtube.com/watch?v=c40cxE-dfPg",
    "vimeo"   : "",
    "aff"     : ["The University of Tokyo"],
    "fromJP"  : true
