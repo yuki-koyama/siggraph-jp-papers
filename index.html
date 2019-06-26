@@ -11,18 +11,18 @@
         <meta name="twitter:description" content="This page collects together all the SIGGRAPH papers that were written by Japanese researchers (including those who live overseas). The SIGGRAPH Asia and ACM Transactions on Graphics (TOG) papers are also collected since they are considered uniform high quality." />
         <meta name="twitter:url" content="http://siggraph.xyz/japanese/" />
         <meta name="twitter:image" content="http://siggraph.xyz/japanese/img/twitter.jpg" />
-        
+
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet" />
         <!-- Bootstrap theme -->
         <link href="css/bootstrap-theme.min.css" rel="stylesheet" />
-        
+
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
 
         <!-- LazyYT -->
         <link rel="stylesheet" href="css/lazyYT.css" />
-        
+
         <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -45,25 +45,25 @@
                 padding-top:    70px;
                 padding-bottom: 30px;
             }
-        
+
             .theme-dropdown .dropdown-menu {
                 position: static;
                 display:  block;
                 margin-bottom: 20px;
             }
-            
+
             .theme-showcase > p > .btn {
                 margin: 5px 0;
             }
-            
+
             .theme-showcase .navbar .container {
                 width: auto;
             }
-            
+
             .link i {
                 padding-right: 5px;
             }
-            
+
             .where {
                 font-size: inherit;
                 font-weight: bold;
@@ -94,10 +94,10 @@
             }
 
         </style>
-        
+
     </head>
     <body role="document">
-        
+
         <!-- Fixed navbar -->
         <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
@@ -112,19 +112,20 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
+                        <li><a href="#2019">2019</a></li>
                         <li><a href="#2018">2018</a></li>
                         <li><a href="#2017">2017</a></li>
                         <li><a href="#2016">2016</a></li>
                         <li><a href="#2015">2015</a></li>
                         <li><a href="#2014">2014</a></li>
-                        <li><a href="#contact"     >Contact</a></li>
+                        <li><a href="#contact">Contact</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>
         </nav>
-        
+
         <div class="container theme-showcase" role="main">
-            
+
             <div class="jumbotron">
                 <h2 style="font-weight: bold;">SIGGRAPH Papers by Japanese Researchers</h2>
                 <p style="font-size: 14px;">
@@ -144,7 +145,7 @@
 
             <!-- <p class="link text-right" id="contact">This page is publicly maintained at <a href="https://github.com/yuki-koyama/siggraph-jp-papers/">GitHub</a>. Your contributions are highly welcome.</p> -->
         </div>
-        
+
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -301,11 +302,13 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
     authors    = data_pair[1];
     var venues = ["SIGGRAPH Asia", "SIGGRAPH", "TOG"];
     var venico = ["sa"           , "siggraph", "tog"];
-    for (var y = 2018; y >= 2014; -- y) 
+    for (var y = 2019; y >= 2014; -- y)
     {
         $("#pub").append($('<span>').attr("id", y));
-        for (var j = 0; j < venues.length; ++ j) 
+        for (var j = 0; j < venues.length; ++ j)
         {
+            if (j == 0) { continue; } // Skip SIGGRAPH Asia
+
             var yearText = '';
             yearText += '<div id="' + venico[j] + y + '"><h1>';
             yearText += venues[j] + ' ' + y;
