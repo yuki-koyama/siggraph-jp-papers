@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "REDMAX: Efficient & Flexible Approach for Articulated Dynamics",
+   "authors" : ["Ying Wang", "Nicholas J. Weidner", "Margaret A. Baxter", "Yura Hwang", "Danny M. Kaufman", "Shinjiro Sueda"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2019,
+   "month"   : 7,
+   "url"     : "http://faculty.cs.tamu.edu/sueda/projects/redmax/",
+   "youtube" : "https://www.youtube.com/watch?v=XanSUEPKNHA",
+   "vimeo"   : "",
+   "aff"     : ["Texas A&M University", "Adobe Research"],
+   "fromJP"  : false
+},
+{
    "title"   : "Language-Driven Synthesis of 3D Scenes from Scene Databases",
    "authors" : ["Rui Ma", "Akshay Gadi Patil", "Matthew Fisher", "Manyi Li", "Sören Pirk", "Binh-Son Hua", "Sai-Kit Yeung", "Xin Tong", "Leonidas Guibas", "Hao Zhang"],
    "venue"   : "SIGGRAPH Asia",
