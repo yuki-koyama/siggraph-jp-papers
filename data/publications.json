@@ -12,6 +12,18 @@
    "fromJP"  : false
 },
 {
+   "title"   : "Hierarchical Russian Roulette for Vertex Connections",
+   "authors" : ["Yusuke Tokuyoshi", "Takahiro Harada"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2019,
+   "month"   : 7,
+   "url"     : "",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Square Enix", "AMD"],
+   "fromJP"  : true
+},
+{
    "title"   : "Language-Driven Synthesis of 3D Scenes from Scene Databases",
    "authors" : ["Rui Ma", "Akshay Gadi Patil", "Matthew Fisher", "Manyi Li", "Sören Pirk", "Binh-Son Hua", "Sai-Kit Yeung", "Xin Tong", "Leonidas Guibas", "Hao Zhang"],
    "venue"   : "SIGGRAPH Asia",
