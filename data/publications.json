@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Mixing Sauces: A Viscosity Blending Model for Shear Thinning Fluids",
+   "authors" : ["Kentaro Nagasawa", "Takayuki Suzuki", "Ryohei Seto", "Masato Okada", "Yonghao Yue"],
+   "venue"   : "SIGGRAPH",
+   "year"    : 2019,
+   "month"   : 7,
+   "url"     : "http://mns.k.u-tokyo.ac.jp/~yonghao/sig19/abstsig19.html",
+   "youtube" : "https://www.youtube.com/watch?v=nXh32BzY9Kc",
+   "vimeo"   : "",
+   "aff"     : ["The University of Tokyo", "Kyoto University", "Aoyama Gakuin University"],
+   "fromJP"  : true
+},
+{
    "title"   : "REDMAX: Efficient & Flexible Approach for Articulated Dynamics",
    "authors" : ["Ying Wang", "Nicholas J. Weidner", "Margaret A. Baxter", "Yura Hwang", "Danny M. Kaufman", "Shinjiro Sueda"],
    "venue"   : "SIGGRAPH",
