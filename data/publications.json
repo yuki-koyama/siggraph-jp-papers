@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Integral Formulations of Volumetric Transmittance",
+   "authors" : ["Iliyan Georgiev", "Zackary Misso", "Toshiya Hachisuka", "Derek Nowrouzezahrai", "Jaroslav Křivánek", "Wojciech Jarosz"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2019,
+   "month"   : 11,
+   "url"     : "http://iliyan.com/publications/TransmittanceFormulations",
+   "youtube" : "",
+   "vimeo"   : "",
+   "aff"     : ["Autodesk", "Dartmouth College", "The University of Tokyo", "McGill University", "Charles University", "Chaos Crech"],
+   "fromJP"  : true
+},
+{
    "title"   : "Mixing Sauces: A Viscosity Blending Model for Shear Thinning Fluids",
    "authors" : ["Kentaro Nagasawa", "Takayuki Suzuki", "Ryohei Seto", "Masato Okada", "Yonghao Yue"],
    "venue"   : "SIGGRAPH",
