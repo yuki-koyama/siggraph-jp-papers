@@ -306,7 +306,7 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
         $("#pub").append($('<span>').attr("id", y));
         for (var j = 0; j < venues.length; ++ j)
         {
-            var skip_siggraph_asia = true;
+            var skip_siggraph_asia = false;
 
             if (j == 0 && skip_siggraph_asia) { continue; } // Skip SIGGRAPH Asia
 
