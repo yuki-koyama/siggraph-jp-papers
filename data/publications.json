@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Video-Guided Real-to-Virtual Parameter Transfer for Viscous Fluids",
+   "authors" : ["Tetsuya Takahashi", "Ming C. Lin"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2019,
+   "month"   : 11,
+   "url"     : "http://gamma.cs.unc.edu/ParameterTransfer/",
+   "youtube" : "https://www.youtube.com/watch?v=kDG30O5Zo4w",
+   "vimeo"   : "",
+   "aff"     : ["University of North Carolina at Chapel Hill", "University of Maryland at College Park"],
+   "fromJP"  : false
+},
+{
    "title"   : "Biomimetic Eye Modeling & Deep Neuromuscular Oculomotor Control",
    "authors" : ["Masaki Nakada", "Arjun Lakshmipathy", "Honglin Chen", "Nina Ling", "Tao Zhou", "Demetri Terzopoulos"],
    "venue"   : "SIGGRAPH Asia",
