@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Deep Face Normalization",
+   "authors" : ["Koki Nagano", "Huiwen Luo", "Zejian Wang", "Jaewoo Seo", "Jun Xing", "Liwen Hu", "Lingyu Wei", "Hao Li"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2019,
+   "month"   : 11,
+   "url"     : "",
+   "youtube" : "https://www.youtube.com/watch?v=fzA9SBJlUDY",
+   "vimeo"   : "",
+   "aff"     : ["Pinscreen", "Mihoyo", "University of Southern California"],
+   "fromJP"  : false
+},
+{
    "title"   : "Neural State Machine for Character-Scene Interactions",
    "authors" : ["Sebastian Starke", "He Zhang", "Taku Komura", "Jun Saito"],
    "venue"   : "SIGGRAPH Asia",
