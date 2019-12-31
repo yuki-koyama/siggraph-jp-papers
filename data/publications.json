@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis",
+   "authors" : ["Yuki Endo", "Yoshihiro Kanamori", "Shigeru Kuriyama"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2019,
+   "month"   : 11,
+   "url"     : "http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/",
+   "youtube" : "https://www.youtube.com/watch?v=HBFMOCFZRTA",
+   "vimeo"   : "",
+   "aff"     : ["University of Tsukuba", "Toyohashi University of Technology"],
+   "fromJP"  : true
+},
+{
    "title"   : "Video-Guided Real-to-Virtual Parameter Transfer for Viscous Fluids",
    "authors" : ["Tetsuya Takahashi", "Ming C. Lin"],
    "venue"   : "SIGGRAPH Asia",
