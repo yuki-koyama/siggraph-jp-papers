@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Biomimetic Eye Modeling & Deep Neuromuscular Oculomotor Control",
+   "authors" : ["Masaki Nakada", "Arjun Lakshmipathy", "Honglin Chen", "Nina Ling", "Tao Zhou", "Demetri Terzopoulos"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2019,
+   "month"   : 11,
+   "url"     : "",
+   "youtube" : "https://www.youtube.com/watch?v=ymV0ONcFVtE",
+   "vimeo"   : "",
+   "aff"     : ["University of California"],
+   "fromJP"  : false
+},
+{
    "title"   : "Integral Formulations of Volumetric Transmittance",
    "authors" : ["Iliyan Georgiev", "Zackary Misso", "Toshiya Hachisuka", "Derek Nowrouzezahrai", "Jaroslav Křivánek", "Wojciech Jarosz"],
    "venue"   : "SIGGRAPH Asia",
