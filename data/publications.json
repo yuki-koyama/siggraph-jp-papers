@@ -1,5 +1,17 @@
 [
 {
+   "title"   : "Neural State Machine for Character-Scene Interactions",
+   "authors" : ["Sebastian Starke", "He Zhang", "Taku Komura", "Jun Saito"],
+   "venue"   : "SIGGRAPH Asia",
+   "year"    : 2019,
+   "month"   : 11,
+   "url"     : "",
+   "youtube" : "https://www.youtube.com/watch?v=7c6oQP1u2eQ",
+   "vimeo"   : "",
+   "aff"     : ["University of Edinburgh", "Adobe Research"],
+   "fromJP"  : false
+},
+{
    "title"   : "Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis",
    "authors" : ["Yuki Endo", "Yoshihiro Kanamori", "Shigeru Kuriyama"],
    "venue"   : "SIGGRAPH Asia",
