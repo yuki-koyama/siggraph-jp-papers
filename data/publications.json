@@ -1,5 +1,29 @@
 [
   {
+    "title"   : "Sequential Gallery for Interactive Visual Design Optimization",
+    "authors" : ["Yuki Koyama", "Issei Sato", "Masataka Goto"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "https://koyama.xyz/project/sequential_gallery/",
+    "youtube" : "https://www.youtube.com/watch?v=PmvS1ywENWA",
+    "vimeo"   : "",
+    "aff"     : ["National Institute of Advanced Industrial Science and Technology (AIST)", "The University of Tokyo"],
+    "fromJP"  : true
+  },
+  {
+    "title"   : "Sequential Gallery for Interactive Visual Design Optimization",
+    "authors" : ["Chia-Hsing Chiu", "Yuki Koyama", "Yu-Chi Lai", "Takeo Igarashi", "Yonghao Yue"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "http://www.cg.it.aoyama.ac.jp/yonghao/sig20/abstsig20.html",
+    "youtube" : "https://www.youtube.com/watch?v=AQCmzGz4kTg",
+    "vimeo"   : "",
+    "aff"     : ["National Taiwan University of Science and Technology", "National Institute of Advanced Industrial Science and Technology (AIST)", "The University of Tokyo", "Aoyama Gakuin University (AGU)"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement",
     "authors" : ["Satoshi Iizuka", "Edgar Simo-Serra"],
     "venue"   : "SIGGRAPH Asia",
