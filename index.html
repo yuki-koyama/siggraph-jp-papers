@@ -306,12 +306,12 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
     authors    = data_pair[1];
     var venues = ["SIGGRAPH Asia", "SIGGRAPH", "TOG"];
     var venico = ["sa"           , "siggraph", "tog"];
-    for (var y = 2019; y >= 2014; -- y)
+    for (var y = 2020; y >= 2014; -- y)
     {
         $("#pub").append($('<span>').attr("id", y));
         for (var j = 0; j < venues.length; ++ j)
         {
-            var skip_siggraph_asia = false;
+            var skip_siggraph_asia = true;
 
             if (j == 0 && skip_siggraph_asia) { continue; } // Skip SIGGRAPH Asia
 
