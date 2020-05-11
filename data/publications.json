@@ -24,6 +24,18 @@
     "fromJP"  : true
   },
   {
+    "title"   : "Resampling-aware Weighting Functions for Bidirectional Path Tracing Using Multiple Light Sub-Paths",
+    "authors" : ["Kosuke Nabata", "Kei Iwasaki", "Yoshinori Dobashi"],
+    "venue"   : "TOG",
+    "year"    : 2020,
+    "month"   : 3,
+    "url"     : "http://web.wakayama-u.ac.jp/~iwasaki/project/risbpt/",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["Wakayama University", "Prometech CG Research", "Hokkaido University"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement",
     "authors" : ["Satoshi Iizuka", "Edgar Simo-Serra"],
     "venue"   : "SIGGRAPH Asia",
