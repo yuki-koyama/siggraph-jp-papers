@@ -12,7 +12,7 @@
     "fromJP"  : true
   },
   {
-    "title"   : "Sequential Gallery for Interactive Visual Design Optimization",
+    "title"   : "Human-in-the-Loop Differential Subspace Search in High-Dimensional Latent Space",
     "authors" : ["Chia-Hsing Chiu", "Yuki Koyama", "Yu-Chi Lai", "Takeo Igarashi", "Yonghao Yue"],
     "venue"   : "SIGGRAPH",
     "year"    : 2020,
