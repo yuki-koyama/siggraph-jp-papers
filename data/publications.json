@@ -24,6 +24,30 @@
     "fromJP"  : true
   },
   {
+    "title"   : "Delayed Rejection Metropolis Light Transport",
+    "authors" : ["Damien Rioux-Lavoie", "Joey Litalien", "Adrien Gruson", "Toshiya Hachisuka", "Derek Nowrouzezahrai"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "https://joeylitalien.github.io/publications/drmlt",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["McGill University", "The University of Tokyo"},
+    "fromJP"  : true
+  },
+  {
+    "title"   : "A Model for Soap Film Dynamics with Evolving Thickness",
+    "authors" : ["Sadashige Ishida", "Peter Synak", "Fumiya Narita", "Toshiya Hachisuka", "Chris Wojtan"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "https://sadashigeishida.bitbucket.io/soapfilm_with_thickness/index.html",
+    "youtube" : "https://www.youtube.com/watch?v=Pr1zibwxAKU",
+    "vimeo"   : "",
+    "aff"     : ["IST Austria", "The University of Tokyo"},
+    "fromJP"  : true
+  },
+  {
     "title"   : "Resampling-aware Weighting Functions for Bidirectional Path Tracing Using Multiple Light Sub-Paths",
     "authors" : ["Kosuke Nabata", "Kei Iwasaki", "Yoshinori Dobashi"],
     "venue"   : "TOG",
