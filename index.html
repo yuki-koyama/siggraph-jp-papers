@@ -147,8 +147,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="js/bootstrap.min.js"></script>
-        <!-- LazyYT -->
-        <script src="js/lazyYT.js"></script>
 
         <script type="text/javascript">
 
@@ -314,7 +312,7 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
         {
             var skip_siggraph_asia = true;
 
-            if (j == 0 && skip_siggraph_asia) { continue; } // Skip SIGGRAPH Asia
+            if (y == 2000 && j == 0 && skip_siggraph_asia) { continue; } // Skip SIGGRAPH Asia
 
             var yearText = '';
             yearText += '<div id="' + venico[j] + y + '"><h1>';
