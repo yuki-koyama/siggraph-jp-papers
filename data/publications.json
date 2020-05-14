@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Continuous Multiple Importance Sampling",
+    "authors" : ["Rex West", "Iliyan Georgiev", "Adrien Gruson", "Toshiya Hachisuka"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["The University of Tokyo", "Autodesk", "McGill University"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "Sequential Gallery for Interactive Visual Design Optimization",
     "authors" : ["Yuki Koyama", "Issei Sato", "Masataka Goto"],
     "venue"   : "SIGGRAPH",
@@ -45,6 +57,54 @@
     "youtube" : "https://www.youtube.com/watch?v=Pr1zibwxAKU",
     "vimeo"   : "",
     "aff"     : ["IST Austria", "The University of Tokyo"],
+    "fromJP"  : true
+  },
+  {
+    "title"   : "GS-PAT: High-speed Multi-point Sound-Fields for Phased Arrays of Transducers",
+    "authors" : ["Diego Martinez Plasencia", "Ryuji Hirayama", "Roberto Antonio Montano Murillo", "Sriram Subramanian"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["University of Sussex"],
+    "fromJP"  : false
+  },
+  {
+    "title"   : "A Practical Octree Liquid Simulator With Adaptive Surface Resolution",
+    "authors" : ["Ryoichi Ando", "Christopher Batty"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["National Institute of Informatics", "University of Waterloo"],
+    "fromJP"  : true
+  },
+  {
+    "title"   : "Local Motion Phases for Learning Multi-Contact Character Movements",
+    "authors" : ["Sebastian Starke", "Yiwei Zhao", "Taku Komura", "Kazi Zaman"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2020,
+    "month"   : 7,
+    "url"     : "",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["University of Edinburgh", "Electronic Arts"],
+    "fromJP"  : false
+  },
+  {
+    "title"   : "Generating Digital Painting Lighting Effects via RGB-space Geometry",
+    "authors" : ["Lvmin Zhang", "Edgar Simo-Serra", "Yi Ji", "Chunping Liu"],
+    "venue"   : "TOG",
+    "year"    : 2020,
+    "month"   : 2,
+    "url"     : "https://lllyasviel.github.io/PaintingLight/",
+    "youtube" : "https://www.youtube.com/watch?v=X7li86oMBLA",
+    "vimeo"   : "",
+    "aff"     : ["Soochow University", "Style2Paints", "Waseda University"],
     "fromJP"  : true
   },
   {
