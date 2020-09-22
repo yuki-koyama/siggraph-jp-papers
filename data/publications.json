@@ -240,6 +240,18 @@
     "fromJP"  : true
   },
   {
+    "title"   : "Redefining A in RGBA: Towards a Standard for Graphical 3D Printing",
+    "authors" : ["Philipp Urban", "Tejas Madan Tanksale", "Alan Brunton", "Bui Minh Vu", "Shigeki Nakauchi"],
+    "venue"   : "TOG",
+    "year"    : 2019,
+    "month"   : 6,
+    "url"     : "",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["Fraunhofer Institute for Computer Graphic Research IGD", "Norwegian University of Science and Technology NTNU", "Toyohashi University of Technology"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "Language-Driven Synthesis of 3D Scenes from Scene Databases",
     "authors" : ["Rui Ma", "Akshay Gadi Patil", "Matthew Fisher", "Manyi Li", "Sören Pirk", "Binh-Son Hua", "Sai-Kit Yeung", "Xin Tong", "Leonidas Guibas", "Hao Zhang"],
     "venue"   : "SIGGRAPH Asia",
