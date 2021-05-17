@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time",
+    "authors" : ["Soshi Shimada", "Vladislav Golyanik", "Weipeng Xu", "Christian Theobalt"],
+    "venue"   : "SIGGRAPH Asia",
+    "year"    : 2020,
+    "month"   : 12,
+    "url"     : "http://gvv.mpi-inf.mpg.de/projects/PhysCap/",
+    "youtube" : "https://www.youtube.com/watch?v=DdhtGt5goRs",
+    "vimeo"   : "",
+    "aff"     : ["Max Planck Institute for Informatics, Saarland Informatics Campus", "Facebook Reality Labs"],
+    "fromJP"  : false
+  },
+  {
     "title"   : "Deep Combiner for Independent and Correlated Pixel Estimates",
     "authors" : ["Jonghee Back", "Binh-Son Hua", "Toshiya Hachisuka", "Bochang Moon"],
     "venue"   : "SIGGRAPH Asia",
