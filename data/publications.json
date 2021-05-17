@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Constraining Dense Hand Surface Tracking with Elasticity",
+    "authors" : ["Breannan Smith", "Chenglei Wu", "He Wen", "Patrick Peluse", "Yaser Sheikh", "Jessica Hodgins", "Takaaki Shiratori"],
+    "venue"   : "SIGGRAPH Asia",
+    "year"    : 2020,
+    "month"   : 12,
+    "url"     : "https://research.fb.com/publications/constraining-dense-hand-surface-tracking-with-elasticity/",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["Facebook Reality Labs", "Facebook AI Research"],
+    "fromJP"  : false
+  },
+  {
     "title"   : "Continuous Multiple Importance Sampling",
     "authors" : ["Rex West", "Iliyan Georgiev", "Adrien Gruson", "Toshiya Hachisuka"],
     "venue"   : "SIGGRAPH",
