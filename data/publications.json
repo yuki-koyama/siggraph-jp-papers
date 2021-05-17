@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Stream-Guided Smoke Simulations",
+    "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Theodore Kim"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2021,
+    "month"   : 7,
+    "url"     : "http://nishitalab.org/user/syuhei/StreamGuidedSmoke/streamguided_smoke.html",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["University of Toyama", "Hokkaido University", "Yale University", "Prometech CG research"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "Continuous Curve Textures",
     "authors" : ["Peihan Tu", "Li-Yi Wei", "Koji Yatani", "Takeo Igarashi", "Matthias Zwicker"],
     "venue"   : "SIGGRAPH Asia",
