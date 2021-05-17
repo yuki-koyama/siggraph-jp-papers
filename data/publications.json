@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Deep Combiner for Independent and Correlated Pixel Estimates",
+    "authors" : ["Jonghee Back", "Binh-Son Hua", "Toshiya Hachisuka", "Bochang Moon"],
+    "venue"   : "SIGGRAPH Asia",
+    "year"    : 2020,
+    "month"   : 12,
+    "url"     : "https://cglab.gist.ac.kr/publications/2020_Deep_Combiner_for_Independent_and_Correlated_Pixel_Estimates.html",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["GIST", "VinAI Research", "VinUniversity", "The University of Tokyo"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "Constraining Dense Hand Surface Tracking with Elasticity",
     "authors" : ["Breannan Smith", "Chenglei Wu", "He Wen", "Patrick Peluse", "Yaser Sheikh", "Jessica Hodgins", "Takaaki Shiratori"],
     "venue"   : "SIGGRAPH Asia",
