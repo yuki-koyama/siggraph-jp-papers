@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Solid-Fluid Interaction with Surface-Tension-Dominant Contact",
+    "authors" : ["Liangwang Ruan", "Jinyuan Liu", "Bo Zhu", "Shinjiro Sueda", "Bin Wang", "Baoquan Chen"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2021,
+    "month"   : 7,
+    "url"     : "https://lwruan.com/publication/waterstrider/",
+    "youtube" : "https://www.youtube.com/watch?v=3ejKNbtdfnY",
+    "vimeo"   : "",
+    "aff"     : ["CFCS, Peking University", "Dartmouth College", "Texas A&M University", "AICFVE, Beijing Film Academy"],
+    "fromJP"  : false
+  },
+  {
     "title"   : "Deep Relightable Appearance Models for Animatable Faces",
     "authors" : ["Sai Bi", "Stephen Lombardi", "Shunsuke Saito", "Tomas Simon", "Shih-En Wei", "Kevyn Mcphail", "Ravi Ramamoorthi", "Yaser Sheikh", "Jason Saragih"],
     "venue"   : "SIGGRAPH",
