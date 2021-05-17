@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "General Virtual Sketching Framework for Vector Line Art",
+    "authors" : ["Haoran Mo", "Edgar Simo-Serra", "Chengying Gao", "Changqing Zou", "Ruomei Wang"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2021,
+    "month"   : 7,
+    "url"     : "https://markmohr.github.io/virtual_sketching/",
+    "youtube" : "https://www.youtube.com/watch?v=gXk3TMceByY",
+    "vimeo"   : "",
+    "aff"     : ["Sun Yat-sen University", "Waseda University", "Huawei Technologies Canada"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control",
     "authors" : ["Xue Bin Peng", "Ze Ma", "Pieter Abbeel", "Sergey Levine", "Angjoo Kanazawa"],
     "venue"   : "SIGGRAPH",
