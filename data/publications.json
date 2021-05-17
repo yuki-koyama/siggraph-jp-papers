@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency",
+    "authors" : ["Mingyi Shi", "Kfir Aberman", "Andreas Aristidou", "Taku Komura", "Dani Lischinski", "Daniel Cohen-Or", "Baoquan Chen"],
+    "venue"   : "SIGGRAPH Asia",
+    "year"    : 2020,
+    "month"   : 12,
+    "url"     : "https://rubbly.cn/publications/motioNet/",
+    "youtube" : "https://www.youtube.com/watch?v=8YubchlzvFA",
+    "vimeo"   : "",
+    "aff"     : ["Shandong University", "Beijing Film Academy", "Tel-Aviv University", "University of Cyprus", "Edinburgh University", "Hebrew University", "Peking University"],
+    "fromJP"  : false
+  },
+  {
     "title"   : "PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time",
     "authors" : ["Soshi Shimada", "Vladislav Golyanik", "Weipeng Xu", "Christian Theobalt"],
     "venue"   : "SIGGRAPH Asia",
