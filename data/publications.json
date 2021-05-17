@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Continuous Curve Textures",
+    "authors" : ["Peihan Tu", "Li-Yi Wei", "Koji Yatani", "Takeo Igarashi", "Matthias Zwicker"],
+    "venue"   : "SIGGRAPH Asia",
+    "year"    : 2020,
+    "month"   : 12,
+    "url"     : "https://tph9608.github.io/cct-siga20/",
+    "youtube" : "https://www.youtube.com/watch?v=7p390vwlFyY",
+    "vimeo"   : "",
+    "aff"     : ["University of Maryland, College Park", "Adobe Research", "The University of Tokyo"],
+    "fromJP"  : true
+  },
+  {
     "title"   : "Monolith: A Monolithic Pressure-Viscosity-Contact Solver for Strong Two-Way Rigid-Rigid Rigid-Fluid Coupling",
     "authors" : ["Tetsuya Takahashi", "Christopher Batty"],
     "venue"   : "SIGGRAPH Asia",
