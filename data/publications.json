@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Neural Monocular 3D Human Motion Capture with Physical Awareness",
+    "authors" : ["Soshi Shimada", "Vladislav Golyanik", "Weipeng Xu", "Patrick Pérez", "Christian Theobalt"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2021,
+    "month"   : 7,
+    "url"     : "http://gvv.mpi-inf.mpg.de/projects/PhysAware/",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["Max Planck Institute for Informatics, Saarland Informatics Campus", "Facebook Reality Labs", "Valeo.ai"],
+    "fromJP"  : false
+  },
+  {
     "title"   : "Stream-Guided Smoke Simulations",
     "authors" : ["Syuhei Sato", "Yoshinori Dobashi", "Theodore Kim"],
     "venue"   : "SIGGRAPH",
