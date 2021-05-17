@@ -1,5 +1,17 @@
 [
   {
+    "title"   : "Deep Relightable Appearance Models for Animatable Faces",
+    "authors" : ["Sai Bi", "Stephen Lombardi", "Shunsuke Saito", "Tomas Simon", "Shih-En Wei", "Kevyn Mcphail", "Ravi Ramamoorthi", "Yaser Sheikh", "Jason Saragih"],
+    "venue"   : "SIGGRAPH",
+    "year"    : 2021,
+    "month"   : 7,
+    "url"     : "https://research.fb.com/publications/deep-relightable-appearance-models-for-animatable-faces/",
+    "youtube" : "",
+    "vimeo"   : "",
+    "aff"     : ["University of California, San Diego", "Facebook Reality Labs", ""],
+    "fromJP"  : false
+  },
+  {
     "title"   : "ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation",
     "authors" : ["He Zhang", "Yuting Ye", "Takaaki Shiratori", "Taku Komura"],
     "venue"   : "SIGGRAPH",
