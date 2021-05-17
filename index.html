@@ -109,6 +109,7 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
+                        <li><a href="#2021">2021</a></li>
                         <li><a href="#2020">2020</a></li>
                         <li><a href="#2019">2019</a></li>
                         <li><a href="#2018">2018</a></li>
@@ -305,14 +306,14 @@ $.getJSONs(["data/publications.json", "data/authors.json"], function(data_pair) 
     authors    = data_pair[1];
     var venues = ["SIGGRAPH Asia", "SIGGRAPH", "TOG"];
     var venico = ["sa"           , "siggraph", "tog"];
-    for (var y = 2020; y >= 2014; -- y)
+    for (var y = 2021; y >= 2014; -- y)
     {
         $("#pub").append($('<span>').attr("id", y));
         for (var j = 0; j < venues.length; ++ j)
         {
             var skip_siggraph_asia = true;
 
-            if (y == 2020 && j == 0 && skip_siggraph_asia) { continue; } // Skip SIGGRAPH Asia
+            if (y == 2021 && j == 0 && skip_siggraph_asia) { continue; } // Skip SIGGRAPH Asia
 
             var yearText = '';
             yearText += '<div id="' + venico[j] + y + '"><h1>';
